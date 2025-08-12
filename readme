@@ -1,0 +1,17 @@
+# AI/ML Learning Journey 🚀
+
+This repository documents my 6-week foundational study in AI and Machine Learning using Pluralsight courses. Each week includes notes, hands-on projects, and code samples.
+
+## Weekly Breakdown
+- **Week 1**: ML Concepts & Cheat Sheet
+- **Week 2**: Data Cleaning & Feature Engineering
+- **Week 3**: Classification Models
+- **Week 4**: Regression Models
+- **Week 5**: Model Deployment with Flask
+- **Week 6**: Cloud Deployment with SageMaker
+
+## Tools Used
+Python, pandas, scikit-learn, Flask, Jupyter Notebook, AWS SageMaker
+
+## Next Steps
+I’ll be continuing this journey with UT Austin’s AI/ML Certificate Program to deepen my skills and build a career in machine learning.
